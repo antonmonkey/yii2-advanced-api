@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pass",
+				"password_hash"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"table",
+				"tableOptions"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"vali",
+				"validatePassword"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tr",
+				"translateX()"
+			],
+			[
+				"por",
+				"portfolioShow"
+			],
+			[
+				"retu",
+				"result"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"P",
+				"PortfolioItems"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"c",
+				"component"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"site",
+				"site-footer"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"calc",
+				"calc-select"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"new",
+				"new_date"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"dele",
+				"deleteImage"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"current",
+				"currentImage"
+			],
+			[
+				"model",
+				"Model"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"bdla",
+				"bdlab_link"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"img",
+				"img_uri"
+			],
+			[
+				"hos",
+				"hos_register_metabox"
+			],
+			[
+				"add_meta",
+				"add_meta_boxes"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"printer_close"
+			],
+			[
+				"Hos",
+				"HosImageUploader"
+			],
+			[
+				"add_",
+				"add_meta_box"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/config/main.php",
+			"settings":
+			{
+				"buffer_size": 2168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/controllers/SiteController.php",
+			"settings":
+			{
+				"buffer_size": 2183,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hossi/web_dev/proj-files/.htaccess",
+			"settings":
+			{
+				"buffer_size": 1743,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"ll",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/yii2-advanced",
+		"/var/www/html/yii2-advanced/api",
+		"/var/www/html/yii2-advanced/api/config",
+		"/var/www/html/yii2-advanced/api/controllers",
+		"/home/hossi/web_dev/proj-files"
+	],
+	"file_history":
+	[
+		"/var/www/html/yii2-advanced/common/config/main-local.php",
+		"/var/www/html/yii2-advanced/common/config/main.php",
+		"/home/hossi/web_dev/proj-files/.htaccess",
+		"/var/www/html/yii2-advanced/common/config/test.php",
+		"/var/www/html/yii2-advanced/common/config/test-local.php",
+		"/var/www/html/yii2-advanced/common/config/params.php",
+		"/var/www/html/yii2-advanced/common/config/params-local.php",
+		"/home/hossi/web_dev/proj-files/index.php",
+		"/var/www/html/yii2-advanced/frontend/web/index.php",
+		"/var/www/html/yii2-advanced/api/controllers/ProductController.php",
+		"/var/www/html/yii2-advanced/api/controllers/SiteController.php",
+		"/var/www/html/yii2-advanced/api/config/main.php",
+		"/var/www/html/yii2-advanced/api/config/bootstrap.php",
+		"/var/www/html/yii2-advanced/common/models/User.php",
+		"/var/www/html/yii2-advanced/api/controllers/ProfileController.php",
+		"/var/www/html/yii2-advanced/backend/views/product/_form.php",
+		"/var/www/html/yii2-advanced/frontend/controllers/UserProductsController.php",
+		"/var/www/html/yii2-advanced/backend/controllers/ProductController.php",
+		"/var/www/html/yii2-advanced/frontend/controllers/ProductController.php",
+		"/var/www/html/yii2-advanced/frontend/controllers/UsersController.php",
+		"/var/www/html/yii2-advanced/frontend/views/users/view.php",
+		"/var/www/html/yii2-advanced/frontend/views/product/index.php",
+		"/var/www/html/yii2-advanced/backend/views/product/create.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-products/_form.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-products/view.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-products/update.php",
+		"/var/www/html/yii2-advanced/frontend/views/profile/update.php",
+		"/var/www/html/yii2-advanced/frontend/config/main.php",
+		"/var/www/html/yii2-advanced/frontend/views/site/index.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-products/_item.php",
+		"/var/www/html/yii2-advanced/frontend/widgets/views/last-user-products.php",
+		"/var/www/html/yii2-advanced/frontend/views/users/index.php",
+		"/var/www/html/yii2-advanced/common/models/Product.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-products/index.php",
+		"/var/www/html/yii2-advanced/frontend/views/layouts/main.php",
+		"/var/www/html/yii2-advanced/frontend/views/product/_item.php",
+		"/var/www/html/yii2-advanced/frontend/views/product/_search.php",
+		"/var/www/html/yii2-advanced/backend/views/users/index.php",
+		"/var/www/html/yii2-advanced/backend/controllers/UsersController.php",
+		"/var/www/html/yii2-advanced/backend/views/users/_form.php",
+		"/var/www/html/yii2-advanced/backend/views/users/create.php",
+		"/var/www/html/yii2-advanced/frontend/controllers/SiteController.php",
+		"/var/www/html/yii2-advanced/frontend/models/SignupForm.php",
+		"/var/www/html/yii2-advanced/backend/views/users/update.php",
+		"/var/www/html/yii2-advanced/backend/views/users/view.php",
+		"/var/www/html/yii2-advanced/backend/views/layouts/left.php",
+		"/var/www/html/yii2-advanced/backend/views/site/index.php",
+		"/var/www/html/yii2-advanced/backend/views/layouts/content.php",
+		"/var/www/html/yii2-advanced/backend/views/layouts/header.php",
+		"/var/www/html/yii2-advanced/common/models/query/ProductQuery.php",
+		"/var/www/html/yii2-advanced/backend/views/site/login.php",
+		"/var/www/html/yii2-advanced/backend/views/layouts/main.php",
+		"/var/www/html/yii2-advanced/backend/views/layouts/main-login.php",
+		"/var/www/html/yii2-advanced/api/models/SignupForm.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/behaviors/TimestampBehavior.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/rest/Controller.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/rest/ActiveController.php",
+		"/var/www/html/yii2-advanced/common/rbac/rules/ProductAuthorRule.php",
+		"/var/www/html/yii2-advanced/api/models/LoginForm.php",
+		"/var/www/html/yii2-advanced/common/models/Token.php",
+		"/var/www/html/yii2-advanced/api/models/ProductSearch.php",
+		"/var/www/html/yii2-advanced/console/migrations/m171206_133713_create_token_table.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/web/User.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/filters/auth/HttpBearerAuth.php",
+		"/var/www/html/yii2-advanced/api/tests/api.suite.yml",
+		"/var/www/html/yii2-advanced/api/tests/_data/user.php",
+		"/var/www/html/yii2-advanced/api/tests/api/AuthCest.php",
+		"/var/www/html/yii2-advanced/api/tests/_data/login_data.php",
+		"/var/www/html/yii2-advanced/common/fixtures/UserFixture.php",
+		"/var/www/html/yii2-advanced/common/fixtures/TokenFixture.php",
+		"/var/www/html/yii2-advanced/api/tests/_support/ApiTester.php",
+		"/var/www/html/yii2-advanced/common/fixtures/PostFixture.php",
+		"/var/www/html/yii2-advanced/api/tests/_data/product.php",
+		"/var/www/html/yii2-advanced/composer.json",
+		"/var/www/html/yii2-advanced/api/codeception.yml",
+		"/var/www/html/yii2-advanced/api/tests/unit.suite.yml",
+		"/var/www/html/yii2-advanced/api/models/ContactForm.php",
+		"/var/www/html/yii2-advanced/common/config/bootstrap.php",
+		"/var/www/html/yii2-advanced/codeception.yml",
+		"/var/www/html/yii2-advanced/environments/prod/api/web/index.php",
+		"/var/www/html/yii2-advanced/environments/prod/api/config/params-local.php",
+		"/var/www/html/yii2-advanced/environments/prod/api/config/main-local.php",
+		"/var/www/html/yii2-advanced/environments/dev/api/config/params-local.php",
+		"/var/www/html/yii2-advanced/environments/dev/api/config/main-local.php",
+		"/var/www/html/yii2-advanced/environments/dev/api/config/test-local.php",
+		"/var/www/html/yii2-advanced/environments/dev/api/web/index-test.php",
+		"/var/www/html/yii2-advanced/environments/dev/api/web/index.php",
+		"/var/www/html/yii2-advanced/frontend/widgets/LastUserProducts.php",
+		"/var/www/html/yii2-advanced/common/rbac/Rbac.php",
+		"/var/www/html/yii2-advanced/console/controllers/RbacController.php",
+		"/var/www/html/yii2-advanced/frontend/views/profile/index.php",
+		"/var/www/html/yii2-advanced/frontend/widgets/view/last-user-products.php",
+		"/var/www/html/yii2-advanced/common/rbac/rules/ProfileOwnerRule.php",
+		"/var/www/html/yii2-advanced/frontend/widgets/LastUserPosts.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-posts/view.php",
+		"/var/www/html/yii2-advanced/frontend/controllers/UserProductController.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/web/NotFoundHttpException.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-posts/update.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-posts/_item.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-posts/index.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-posts/create.php",
+		"/var/www/html/yii2-advanced/frontend/views/user-posts/_form.php",
+		"/var/www/html/yii2-advanced/console/migrations/m171201_112047_create_product_table.php",
+		"/var/www/html/yii2-advanced/console/migrations/m171204_101709_change_table_product.php",
+		"/var/www/html/yii2-advanced/frontend/controllers/ProfileController.php",
+		"/var/www/html/yii2-advanced/common/rbac/items/assignments.php",
+		"/var/www/html/yii2-advanced/console/config/main.php",
+		"/var/www/html/yii2-advanced/frontend/views/site/signup.php",
+		"/var/www/html/yii2-advanced/frontend/config/main-local.php",
+		"/var/www/html/yii2-advanced/frontend/views/users/update.php",
+		"/var/www/html/yii2-advanced/common/models/query/UserQuery.php",
+		"/var/www/html/yii2-advanced/common/models/UserSearch.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/db/Query.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/db/ActiveQuery.php",
+		"/var/www/html/yii2-advanced/frontend/views/users/_search.php",
+		"/var/www/html/yii2-advanced/frontend/views/users/_item.php",
+		"/var/www/html/yii2-advanced/common/models/ProductSearch.php",
+		"/var/www/html/yii2-advanced/backend/models/AdminLoginForm.php",
+		"/var/www/html/yii2-advanced/common/models/LoginForm.php",
+		"/var/www/html/yii2-advanced/backend/controllers/SiteController.php",
+		"/var/www/html/yii2-advanced/console/migrations/m171202_130017_add_column_to_table_user.php",
+		"/var/www/html/yii2-advanced/backend/config/main-local.php",
+		"/var/www/html/yii2-advanced/vendor/dmstr/yii2-adminlte-asset/example-views/yiisoft/yii2-app/layouts/main-login.php",
+		"/var/www/html/yii2-advanced/vendor/dmstr/yii2-adminlte-asset/example-views/yiisoft/yii2-app/layouts/main.php",
+		"/var/www/html/yii2-advanced/vendor/dmstr/yii2-adminlte-asset/example-views/yiisoft/yii2-app/layouts/content.php",
+		"/var/www/html/yii2-advanced/vendor/dmstr/yii2-adminlte-asset/example-views/yiisoft/yii2-app/layouts/header.php",
+		"/var/www/html/yii2-advanced/vendor/yiisoft/yii2/web/IdentityInterface.php",
+		"/var/www/html/yii2-advanced/frontend/assets/AppAsset.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/var/www/html/yii2-advanced",
+			"/var/www/html/yii2-advanced/api",
+			"/var/www/html/yii2-advanced/frontend",
+			"/var/www/html/yii2-advanced/common/rbac",
+			"/var/www/html/yii2-advanced/common/models",
+			"/var/www/html/yii2-advanced/backend",
+			"/var/www/html/yii2-advanced",
+			"/var/www/html/yii2-advanced/vendor/yiisoft/yii2",
+			"/home/hossi/web_dev/proj-files/autumn2017/Mediaciya/backup/25.10.17/www/wp-content/themes/allegiant",
+			"/home/hossi/web_dev/proj-files/autumn2017/Mediaciya/backup/25.10.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/autumn2017/Mediaciya/backup/25.10.17/www/wp-content/themes",
+			"/home/hossi/web_dev/proj-files/autumn2017/Mediaciya/backup/25.10.17/www/wp-content/themes/allegiant/template-parts",
+			"/home/hossi/web_dev/proj-files/autumn2017/Mediaciya/backup/25.10.17/www/wp-content/themes/allegiant",
+			"/home/hossi/web_dev/proj-files/autumn2017/Ambasada/backup/21.10.17/www/wp-content/themes/courtyard",
+			"/home/hossi/web_dev/proj-files/autumn2017/bond/theme/UNICE",
+			"/home/hossi/web_dev/proj-files/autumn2017/Kristal/backup/5.10.17/www/wp-content/themes/zerif-lite",
+			"/home/hossi/web_dev/proj-files/autumn2017/EscortMED/backup/4.10.17/www/wp-content/themes/suffice",
+			"/home/hossi/web_dev/proj-files/autumn2017/EscortMED/backup/www/wp-content/themes/suffice",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/AdvObj/theme/klasik",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend/template-parts",
+			"/home/hossi/web_dev/proj-files/autumn2017/BodyHub/backup/22.09.17/www/wp-content/themes/transcend",
+			"/var/www/html/allell.loc",
+			"/var/www/html/allell.loc/modules/admin/web/js",
+			"/var/www/html/allell.loc/modules/admin",
+			"/var/www/html/allell.loc/modules/admin/web/js",
+			"/var/www/html/allell.loc/modules/admin",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/backup/3%-23.08.17/www/wp-content/themes/unitravel",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/backup/3%-23.08.17/www/wp-content",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/backup/3%-23.08.17/www/wp-content/plugins/trx_addons",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/backup/3%-23.08.17/www/wp-content/themes/unitravel",
+			"/home/hossi/web_dev/proj-files/2017-summer/VVT/theme/blaskan",
+			"/home/hossi/web_dev/proj-files/2017-summer/VVT/theme/blaskan/template-parts",
+			"/home/hossi/web_dev/proj-files/2017-summer/VVT/theme/blaskan",
+			"/home/hossi/web_dev/proj-files/2017-summer/VVT/strong-testimonials",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/wp_theme/unitravel",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/wp_theme/unitravel/plugins/trx_addons",
+			"/home/hossi/web_dev/proj-files/2017-summer/pectoral_prirodbl/wp_theme/unitravel",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"backend",
+			"freemovement",
+			"status",
+			"Status",
+			"string",
+			"required",
+			"integer",
+			"required",
+			"Post",
+			"post",
+			"frontend",
+			"Post",
+			"token",
+			"user_id",
+			"integer",
+			"user_id",
+			"csrfParam",
+			"console",
+			"frontend",
+			"post",
+			"NotFoundHttpException",
+			"product",
+			"post",
+			"position",
+			"post",
+			"manageProfile",
+			"filterModel",
+			"datetime",
+			"position",
+			"static",
+			"User",
+			"string",
+			"32px",
+			"nth-of-type(2)",
+			"isActive",
+			"isHumburgerActive",
+			"active",
+			"inner",
+			"isActive",
+			"active",
+			"navShow",
+			"nsvShow",
+			"greet",
+			"fade",
+			"mounted",
+			"portfolio__active",
+			"mounted",
+			"portfolioActive",
+			"after",
+			"portfolioActiveisActive",
+			"appear",
+			"null",
+			"el",
+			"transitionName",
+			"right",
+			"left",
+			"right",
+			"tranform",
+			"active",
+			"loading",
+			"portfolio",
+			"portfolioShow",
+			"result",
+			"this",
+			"getPortfolio",
+			"portfolio",
+			"portfoliporto",
+			"port",
+			"poportfoliost",
+			"portfolio",
+			"components",
+			"зщкеащдшщ",
+			"Home",
+			"menu",
+			"Menu",
+			"menu",
+			"Menavigationnu",
+			"navigation",
+			"nav",
+			"Nav",
+			"nav",
+			"menu",
+			"nav",
+			"menu",
+			"},\n",
+			"home",
+			"Portfolio",
+			"Router",
+			"VueRouter",
+			"Main",
+			"main",
+			"Portfolio",
+			"cards",
+			"portfolio",
+			"rgba(255,34,65,1)",
+			"post-comments",
+			"cpotheme_footer",
+			"cpotheme_after_wrapper",
+			"a52943",
+			"dark",
+			"#89ce40",
+			"team",
+			"cpotheme_grid",
+			"password",
+			"cpotheme_before_main",
+			"cpotheme_theme_layout",
+			"home_clients",
+			"search",
+			"footer",
+			"courtyard_footer",
+			"load_theme_textdomain",
+			"courtyard_breadcrumbs_sep",
+			"courtyard_footer",
+			"00bcd4",
+			"%;",
+			"password",
+			"header",
+			"btn-landingpage",
+			"/** Additional styles Allelectrics **/\n",
+			"btn-landingpage",
+			"col-md-4",
+			"4",
+			"alex2.laweb.com.ua",
+			"http://alex2.laweb.com.ua/",
+			"zerif-post-thumbnail",
+			"widget",
+			".navigation-default .menu-primary > ul > li > a, .navigation-default .primary-menu > ul > li > a",
+			"animalname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n",
+			"<",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/config/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/controllers/SiteController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1237
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 172.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/hossi/web_dev/proj-files/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "proj-yii-api.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,28 @@
+<?php
+
+namespace frontend\widgets;
+
+use common\models\Product;
+use common\models\User;
+use yii\base\InvalidConfigException;
+use yii\base\Widget;
+
+class LastUserProducts extends Widget
+{
+    public $user;
+    public $limit = 10;
+
+    public function init()
+    {
+        if (!$this->user || !$this->user instanceof User) {
+            throw new InvalidConfigException('Empty post.');
+        }
+    }
+    public function run()
+    {
+        return $this->render('last-user-products', [
+            'user' => $this->user,
+            'product' => Product::find()->forUser($this->user->id)->latest($this->limit)->all(),
+        ]);
+    }
+}
